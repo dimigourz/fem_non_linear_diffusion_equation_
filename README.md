@@ -7,6 +7,11 @@
 ## Numerical Algorithm
 ![Equation](equation2.png)
 
+## Numerical results
+![Equation](equation3.png)
+
+![img1](t=0.png)
+![img2](t=1.png)
 
 ## Tasks
 
