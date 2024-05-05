@@ -15,7 +15,7 @@
 
 ## Tasks
 
-- [ ] Improve documentation
-- [ ] Test convergence order with an exact solution
+- [ ] Improve documentation.
+- [ ] Test convergence order with an exact solution.
 - [ ] Fix the convolution term.
 
